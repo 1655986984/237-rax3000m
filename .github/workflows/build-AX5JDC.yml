@@ -1,4 +1,4 @@
-name: Build 360T7 OpenWrt
+name: Build AX5JDC OpenWrt
 
 on:
   repository_dispatch:
