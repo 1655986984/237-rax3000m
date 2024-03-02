@@ -1,4 +1,4 @@
-name: Build RAX3000M_nand OpenWrt
+name: Build RAX3000M_imm_nand OpenWrt
 
 on:
   repository_dispatch:
