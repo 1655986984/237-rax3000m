@@ -1,4 +1,4 @@
-name: hanwckf/immortalwrt_RAX3000M_nand
+name: RAX3000M_nand_hanwckf/immortalwrt
 
 on:
   repository_dispatch:
