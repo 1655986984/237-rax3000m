@@ -1,4 +1,4 @@
-name: Build RAX3000M_imm_nand OpenWrt
+name: hanwckf/immortalwrt_RAX3000M_nand
 
 on:
   repository_dispatch:
